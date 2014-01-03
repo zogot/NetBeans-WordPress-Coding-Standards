@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-import" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-initial-comment" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-innerclass" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-javadoc" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-method" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-tags" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+</editor-preferences>
